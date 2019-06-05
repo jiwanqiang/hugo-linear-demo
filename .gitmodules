@@ -1,0 +1,3 @@
+[submodule "themes/hugo-linear"]
+	path = themes/hugo-linear
+	url = https://github.com/jiwq/hugo-linear
